@@ -31,6 +31,7 @@ const Navbar = () => {
       
           <span>New and Popular</span>
           
+
         
           <span>My List</span>
         </div>
